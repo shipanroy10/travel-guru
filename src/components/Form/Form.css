@@ -1,0 +1,28 @@
+
+.ship-form{
+    float: right;
+    width: 35%;
+    background-color: rgba(255, 68, 0, 0.178);
+}
+.ship-form input{
+   
+    margin-top: 30px;
+    padding: 2px;
+    border: 1 px solid gray;
+    border-radius: 5px;
+    width: 300px;
+    text-align: center;
+}
+.error{
+    color: red;
+}
+.about-the-place{
+    float: left;
+    width: 40%;
+    margin-left: 50px;
+}
+.background{
+    background-image: url(../../travel-guru-master/Image/Sajek.png);
+    background-position: center center;
+    background-size: cover;
+}

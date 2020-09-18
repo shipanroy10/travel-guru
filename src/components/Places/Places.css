@@ -1,0 +1,17 @@
+.place{
+    width: 250px;
+    height: 300px;
+    border-radius: 30px;
+    padding: 5px;
+   
+    margin-top: 200px;
+    margin-left: 80px;
+    margin-bottom: 300px;
+    text-align: center;
+   
+    
+}
+.place h2{
+    line-height: 500px;
+    color: white;
+}

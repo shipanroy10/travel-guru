@@ -1,0 +1,11 @@
+.detail{
+    display: flex;
+    margin: 10px;
+}
+.half{
+    padding: 10px;color: white;
+}
+.detail img{
+    width: 200px;
+    height: 200px;
+}
